@@ -1,0 +1,13 @@
+{
+    "name": "CGDS Organization Workflow",
+    "description": "CGDS Organization CI starter workflow.",
+    "categories": [
+	"Python",
+	"Javscript"
+    ],
+    "filePatterns": [
+	"package.json$",
+	"^Dockerfile",
+	".*\\.md$"
+    ]
+}
